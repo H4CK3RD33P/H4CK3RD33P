@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Subhodeep's github stats](https://github-readme-stats.vercel.app/api?username=H4CK3RD33P&show_icons=true&theme=merko)
+![Subhodeep's github stats](https://github-readme-stats.vercel.app/api?username=H4CK3RD33P&show_icons=true&theme=merko)\
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H4CK3RD33P&theme=merko)
 
 <!--
