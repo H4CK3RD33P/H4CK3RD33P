@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Subhodeep's github stats](https://github-readme-stats.vercel.app/api?username=H4CK3RD33P&show_icons=true&theme=merko&bg_color=,046e65,04300)\
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H4CK3RD33P&theme=tokyonight&layout=compact&&bg_color=,140b33,940000)
+![Subhodeep's github stats](https://github-readme-stats.vercel.app/api?username=H4CK3RD33P&show_icons=true&theme=merko&bg_color=0,046e65,04300)\
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H4CK3RD33P&theme=tokyonight&layout=compact&&bg_color=0,140b33,940000)
 <!--
 **H4CK3RD33P/H4CK3RD33P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
