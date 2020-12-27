@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Subhodeep's github stats](https://github-readme-stats.vercel.app/api?username=H4CK3RD33P&show_icons=true&theme=dark)
+![Subhodeep's github stats](https://github-readme-stats.vercel.app/api?username=H4CK3RD33P&show_icons=true&theme=radical)
 
 <!--
 **H4CK3RD33P/H4CK3RD33P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
