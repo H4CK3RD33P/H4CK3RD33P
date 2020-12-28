@@ -12,7 +12,8 @@ I am actively looking for remote job opportunities, internships and fellowships.
 ## My Stats! ⚡
 
 ![Subhodeep's github stats](https://github-readme-stats.vercel.app/api?username=H4CK3RD33P&show_icons=true&bg_color=30,046e65,043003&theme=merko)\
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H4CK3RD33P&theme=tokyonight&layout=compact&&bg_color=0,140b33,940000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H4CK3RD33P&theme=tokyonight&layout=compact&&bg_color=0,140b33,940000)\
+[![Subhodeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=H4CK3RD33P&bg_color=60,138086,534666&title_color=c93437)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **H4CK3RD33P/H4CK3RD33P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
