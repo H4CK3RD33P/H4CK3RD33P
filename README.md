@@ -9,10 +9,15 @@ Talking about my top skills, first on the list comes Python programming, then ne
 I am actively looking for remote internships and fellowships.
 
 My social media handles:
+
 GitHub: github.com/H4CK3RD33P
+
 LinkedIn: linkedin.com/in/subhodeep-sarkar
+
 Facebook: facebook.com/itsyourpyman
+
 Instagram: instagram.com/itsyourpyman
+
 Website: www.subhodeepsarkar.com
 
 
