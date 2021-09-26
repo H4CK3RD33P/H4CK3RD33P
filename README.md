@@ -10,13 +10,13 @@ I am actively looking for remote internships and fellowships.
 
 My social media handles:
 
-GitHub: github.com/H4CK3RD33P
+GitHub: www.github.com/H4CK3RD33P
 
-LinkedIn: linkedin.com/in/subhodeep-sarkar
+LinkedIn: www.linkedin.com/in/subhodeep-sarkar
 
-Facebook: facebook.com/itsyourpyman
+Facebook: www.facebook.com/itsyourpyman
 
-Instagram: instagram.com/itsyourpyman
+Instagram: www.instagram.com/itsyourpyman
 
 Website: www.subhodeepsarkar.com
 
