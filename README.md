@@ -27,6 +27,12 @@ Website: www.subhodeepsarkar.com
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H4CK3RD33P&theme=tokyonight&layout=compact&&bg_color=0,140b33,940000)\
 [![Subhodeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=H4CK3RD33P&bg_color=60,138086,534666&title_color=c93437)](https://github.com/anuraghazra/github-readme-stats)
 
+## Coding platforms
+<a href="https://www.codewars.com/users/H4CK3RD33P">![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)</a>
+![Codewars](https://www.codewars.com/users/H4CK3RD33P/badges/large)
+
+
+<a href="https://www.hackerrank.com/subhodeep_soffi1">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 <!--
 **H4CK3RD33P/H4CK3RD33P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
