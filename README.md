@@ -8,18 +8,12 @@ Talking about my top skills, first on the list comes Python programming, then ne
 
 I am actively looking for remote internships and fellowships.
 
-My social media handles:
-
-GitHub: www.github.com/H4CK3RD33P
-
-LinkedIn: www.linkedin.com/in/subhodeep-sarkar
-
-Facebook: www.facebook.com/itsyourpyman
-
-Instagram: www.instagram.com/itsyourpyman
-
-Website: www.subhodeepsarkar.com
-
+## Social Media Platforms
+<a href="https://www.facebook.com/itsyourpyman">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="https://www.instagram.com/itsyourpyman">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.github.com/H4CK3RD33P">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/subhodeep-sarkar">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.subhodeepsarkar.com">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
 
 ## My Stats! ⚡
 
@@ -27,7 +21,7 @@ Website: www.subhodeepsarkar.com
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H4CK3RD33P&theme=tokyonight&layout=compact&&bg_color=0,140b33,940000)\
 [![Subhodeep's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=H4CK3RD33P&bg_color=60,138086,534666&title_color=c93437)](https://github.com/anuraghazra/github-readme-stats)
 
-## Coding platforms
+## Coding Platforms
 <a href="https://www.codewars.com/users/H4CK3RD33P">![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)</a>
 ![Codewars](https://www.codewars.com/users/H4CK3RD33P/badges/large)
 
