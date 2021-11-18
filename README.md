@@ -34,12 +34,12 @@ I am actively looking for remote internships and fellowships.
 ## Coding Platforms
 <a href="https://www.codewars.com/users/H4CK3RD33P">![](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)</a>
 
-![Codewars](https://www.codewars.com/users/H4CK3RD33P/badges/large)
+&nbsp;&nbsp;![Codewars](https://www.codewars.com/users/H4CK3RD33P/badges/large)
 
 
 <a href="https://www.hackerrank.com/subhodeep_soffi1">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
 
-![Python](pythongold.png)
+&nbsp;&nbsp;![Python](pythongold.png)
 <!--
 **H4CK3RD33P/H4CK3RD33P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
