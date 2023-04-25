@@ -1,8 +1,6 @@
 ## About Me! 💬
 
-I am Subhodeep Sarkar, the founder of Py-Volution, a start-up aimed at educating students in the field of STEM (Science Technology Engineering Management) in the most economical and pocket friendly way. 
-
-I am a Python developer, competitive programmer, web developer, network engineer, Linux lover, and ethical hacker. I have completed many certifications from renowned organizations such as Google, Cisco, The Linux Foundation, and the University of Michigan. I have Google IT Automation with Python Professional Certificate, Cisco Certified Network Associate Professional Certificate, Python for Everybody Specialization, Open Source Software Development Linux and Git Specialization, and many other minor technical courses.
+I am a Python developer, competitive programmer, web developer, network engineer, Linux lover. I have completed many certifications from renowned organizations such as Google, The Linux Foundation, and the University of Michigan. I have Google IT Automation with Python Professional Certificate, Python for Everybody Specialization, Open Source Software Development Linux and Git Specialization, and many other minor technical courses.
 
 Talking about my top skills, first on the list comes Python programming, then network administration,  Django, HTML, CSS, JavaScript (DOM), Bash. Along with these technical skills, I have few but notable skills, like typing at a speed of 80-100 WPM, teaching, mentoring, marketing, and great communication skills. I am familiar and well-versed with GNU/Linux OS and when it comes to programming, I have a working knowledge of C, C++, and Java. I am planning to learn Cython, Rust and Golang shortly.
 
@@ -19,11 +17,8 @@ I am actively looking for remote internships and fellowships.
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Social Media Platforms
-<a href="https://www.facebook.com/itsyourpyman">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-<a href="https://www.instagram.com/itsyourpyman">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://www.github.com/H4CK3RD33P">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/subhodeep-sarkar">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://www.subhodeepsarkar.com">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
 
 ## My Stats! ⚡
 
